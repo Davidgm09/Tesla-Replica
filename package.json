@@ -1,0 +1,22 @@
+{
+  "name": "tesla-landing",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "deploy": "astro build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.3",
+    "astro": "^5.2.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.3"
+  }
+}
