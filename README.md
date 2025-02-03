@@ -1,4 +1,4 @@
-🚀 ReplicTesla - Réplica de la Página Oficial de Tesla
+🚀 ReplicTesla - Réplica de la Landing Page de Tesla
 ReplicTesla es una recreación de la página oficial de Tesla, desarrollada con Astro y Tailwind CSS para lograr una estructura optimizada y un diseño moderno. Este proyecto pone a prueba mis habilidades en desarrollo frontend, enfocándome en la eficiencia, la accesibilidad y una experiencia de usuario fluida.
 
 ✨ Características Principales
