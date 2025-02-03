@@ -4,9 +4,13 @@ ReplicTesla es una recreación de la página oficial de Tesla, desarrollada con 
 ✨ Características Principales
 
 -Astro para una arquitectura optimizada y generación de contenido estático.
+
 -Tailwind CSS para un diseño responsivo y estilizado con clases utilitarias.
+
 -Animaciones y transiciones para mejorar la interacción del usuario.
+
 -Estructura modular para facilitar el mantenimiento y escalabilidad del proyecto.
+
 🎯 Objetivo del Proyecto
 El propósito de ReplicTesla es mejorar mi dominio de tecnologías modernas como Astro y Tailwind, aplicando las mejores prácticas de desarrollo web para construir una interfaz visualmente atractiva y de alto rendimiento.
 
