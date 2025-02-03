@@ -10,3 +10,6 @@ Estructura modular para facilitar el mantenimiento y escalabilidad del proyecto.
 El propósito de ReplicTesla es mejorar mi dominio de tecnologías modernas como Astro y Tailwind, aplicando las mejores prácticas de desarrollo web para construir una interfaz visualmente atractiva y de alto rendimiento.
 
 Puedes verlo en acción aquí: https://davidgm09.github.io/Tesla-Replica/
+
+![image](https://github.com/user-attachments/assets/ff1dd00b-1327-4723-ba9a-6b315cecc38d)
+
